@@ -22,7 +22,7 @@ public class Student {
     private String email;
 
     // define constructors
-    public Student(){
+    public Student() {
 
     }
 
